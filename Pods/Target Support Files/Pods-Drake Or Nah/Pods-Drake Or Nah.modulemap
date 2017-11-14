@@ -1,0 +1,6 @@
+framework module Pods_Drake_Or_Nah {
+  umbrella header "Pods-Drake Or Nah-umbrella.h"
+
+  export *
+  module * { export * }
+}
